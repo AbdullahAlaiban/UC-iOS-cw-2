@@ -42,7 +42,6 @@ struct ContentView: View {
                 .clipShape(Capsule())
             
                 .onTapGesture {
-            
                 emoji = "unityy"
                 }
             
